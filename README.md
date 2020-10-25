@@ -1,3 +1,9 @@
+## React-frontend-Pagination
+
+This project was created with guidance from a Youtube tutorial by Brad Traversy.
+
+## Shalom!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
